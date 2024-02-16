@@ -14,8 +14,8 @@ namespace PositiveAffirmations
             "You are a smart programmer",
             "You are doing great",
             "You are amazing",
-            "You solve problems creatively!",
-            "Your dedication to coding is inspiring!"
+            "You solve problems creatively",
+            "Your dedication to coding is inspiring :3"
         };
 
         public string GenerateAffirmation()
